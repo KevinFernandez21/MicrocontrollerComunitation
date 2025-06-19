@@ -1,0 +1,17 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo8 -N"C:\Users\argen\OneDrive\Documentos\8 Semestre\Embebidos\Deber1Embebidos.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\argen\OneDrive\Documentos\8 Semestre\Embebidos\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Deber1Embebidos.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Deber1Embebidos.c
+error: 3	324	Undeclared identifier 'Sound_Play' in expression	Deber1Embebidos.c
+error: 5	324	Undeclared identifier 'Sound_Play' in expression	Deber1Embebidos.c
+error: 7	324	Undeclared identifier 'Sound_Play' in expression	Deber1Embebidos.c
+error: 9	324	Undeclared identifier 'Sound_Play' in expression	Deber1Embebidos.c
+error: 11	324	Undeclared identifier 'Sound_Play' in expression	Deber1Embebidos.c
+error: 13	324	Undeclared identifier 'Sound_Play' in expression	Deber1Embebidos.c
+error: 14	324	Undeclared identifier 'Sound_Play' in expression	Deber1Embebidos.c
+error: 16	324	Undeclared identifier 'Sound_Play' in expression	Deber1Embebidos.c
+error: 18	324	Undeclared identifier 'Sound_Play' in expression	Deber1Embebidos.c
+error: 20	324	Undeclared identifier 'Sound_Play' in expression	Deber1Embebidos.c
+error: 22	324	Undeclared identifier 'Sound_Play' in expression	Deber1Embebidos.c
+error: 24	324	Undeclared identifier 'Sound_Play' in expression	Deber1Embebidos.c
+error: 26	312	Internal error ''	Deber1Embebidos.c
+error: 0	102	Finished (with errors): 17 jun. 2025, 21:57:48	Deber1Embebidos.mcppi

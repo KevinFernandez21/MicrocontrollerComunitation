@@ -1,0 +1,6 @@
+main
+	waka_waka_sound
+		beep_ms1
+	game_over_sound
+		beep_ms2
+		beep_ms1
